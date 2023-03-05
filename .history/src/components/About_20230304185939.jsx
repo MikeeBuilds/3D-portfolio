@@ -5,7 +5,7 @@ import { styles } from '../styles';
 import { services } from '../constants';
 import { fadeIn, textVariant} from '../utils/motion';
 
-const ServiceCard = ({ title, icon, index }) => {
+const ServiceCard = ({ title, Icon, index }) => {
   return (
     <Tilt
       className="xs:w-[250px] w-full"
@@ -22,9 +22,7 @@ const ServiceCard = ({ title, icon, index }) => {
         }}
         className="bg-tertiary rounded-[20px] py-5 px-12 min-h-[240px] flex justify-evenly items-center flex-col"
         >
-          <img src={icon} alt={title} 
-          className='w-16 h-16 object-contain' />
-          <h3 className='text-white text-[20px] font-bold text-center'>{title}</h3>
+          <img src={icon} alt={} className='w-16 h-16 object-contain' />
           </div>
       </motion.div>
     </Tilt>
