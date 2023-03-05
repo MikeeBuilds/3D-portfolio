@@ -10,7 +10,7 @@ const SectionWrapper = (Component, idName) =>
     return (
         <motion.section
         variants={staggerContainer()}
-        initial="hidden"
+        initial=""
         whileInView="show"
         viewport={{ once: true, amount: 0.25 }}
         className={`${styles.padding} max-w-7xl mx-auto relative z-0`}
@@ -25,4 +25,4 @@ const SectionWrapper = (Component, idName) =>
   }
 
 
-export default SectionWrapper
+export default SectionWrapper;
