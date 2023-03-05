@@ -18,8 +18,8 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
               I'm a Web3 Developer based in Ft Lauderdale, FL. I specialize in building and
-                designing websites and decentralized web applications. <br className='sm:block hidden' /> I'm also a blockchain enthusiast and 
-                I'm currently building with Solidity and Web3.js using React, Next.js, Tailwindcss and Three.js to bring your ideas to life. 
+                designing websites and DECEN web applications. <br className='sm:block hidden' /> I'm also a blockchain enthusiast and 
+                I'm currently building with Solidity and Web3.js. 
 
             </p>
           </div>

@@ -23,6 +23,6 @@ const SectionWrapper = (Component, idName) =>
         </motion.section>
     )
   }
-
+}
 
 export default SectionWrapper;

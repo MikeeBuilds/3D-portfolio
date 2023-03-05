@@ -5,7 +5,7 @@ import { staggerContainer } from '../utils/motion';
 
 
 
-const SectionWrapper = (Component, idName) => 
+const SectionWrapper = (Component, idName) => {
   function HOC () {
     return (
         <motion.section
@@ -23,6 +23,6 @@ const SectionWrapper = (Component, idName) =>
         </motion.section>
     )
   }
-
+}
 
 export default SectionWrapper;
