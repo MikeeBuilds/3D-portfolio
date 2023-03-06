@@ -14,10 +14,10 @@ const Hero = () => {
           </div>
           <div className=''> 
             <h1 className={`${styles.heroHeadText} text-white`}> 
-              Welcome, I'm <span className=' text-[#915eff]'>Mike</span>
+              Welcome, I'm <span className='hover:animate-spin anima text-[#915eff]'>Mike</span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            "Bringing your ideas to life with <span className=' animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>code</span>"
+            "Bringing your ideas to like with <span className=' animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>code</span>"
 
 
             </p>
