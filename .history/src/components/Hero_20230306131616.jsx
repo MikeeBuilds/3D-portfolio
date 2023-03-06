@@ -14,14 +14,13 @@ const Hero = () => {
           </div>
           <div className=''> 
             <h1 className={`${styles.heroHeadText} text-white`}> 
-            Im <span className=' text-[#915eff]'>Mike</span>, Greetings!
+              Greetings, I'm <span className=' underline text-[#915eff]'>Mike</span>
             </h1>
             <p className=''>
               Let me help assist you with
             </p>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Crafting Your Digital Experiences With <span className=' animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>&lt;CODE/&gt;
-</span>
+            "Crafting Your Digital Experiences With <span className=' animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>"<Code/>"</span>"
 
 
             </p>
