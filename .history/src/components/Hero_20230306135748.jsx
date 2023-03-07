@@ -20,7 +20,7 @@ const Hero = () => {
               Let me help assist you with
             </p>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Crafting Your Digital Experiences With <span className=' animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-4xl font-black xs:flex-row '>&lt;CODE/&gt;
+            Crafting Your Digital Experiences With <span className=' animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-4xl font-black xs:flex-row'>&lt;CODE/&gt;
 </span>
 
 
