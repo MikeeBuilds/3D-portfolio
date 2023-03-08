@@ -16,7 +16,7 @@ export {
   Tech,
   Experience,
   Works,
-  Footer,
+  F
   Feedbacks,
   Contact,
   EarthCanvas, 
