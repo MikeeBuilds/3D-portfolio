@@ -5,7 +5,6 @@ import { styles } from '../styles';
 import { services } from '../constants';
 import { fadeIn, textVariant} from '../utils/motion';
 import { SectionWrapper } from '../hoc';
-import me from '../assets/me.jpg';
 
 const ServiceCard = ({ title, icon, index }) => {
   return (
@@ -45,7 +44,6 @@ const About = () => {
         </h2>
       </motion.div>
 
-      <div className="flex items-center min-[1000px]:flex-row flex-col-reverse ">
       <motion.p
       variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
@@ -58,25 +56,25 @@ const About = () => {
         small businesses. Lets work together to bring your ideas to life!
 
       </motion.p>
+
       <Tilt className="xs:w-[350px] xs:h-[350px] w-full h-full m-auto max-[1000px]:my-14">
           <motion.div
             variants={fadeIn("", "", 0.5, 1)}
-            className="rounded-full xs:w-[350px] w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card"
+            className="xs:w-[350px] w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card"
           >
             <div
               options={{ max: 45, scale: 1, speed: 450 }}
-              className="rounded-full bg-tertiary rounded-[20px] min-h-[250px] flex justify-evenly items-center flex-col overflow-hidden"
+              className="bg-tertiary rounded-[20px] min-h-[250px] flex justify-evenly items-center flex-col overflow-hidden"
             >
               <img
                 src={me}
                 alt="MyPhoto"
-                className="rounded-full w-full h-full object-contain"
+                className="w-full h-full object-contain"
               />
             </div>
           </motion.div>
         </Tilt>
       </div>
-      
 
       <div className='mt-20 flex flex-wrap gap-10 '>
         {services.map((service, index) => (

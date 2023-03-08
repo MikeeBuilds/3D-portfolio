@@ -61,7 +61,7 @@ const About = () => {
       <Tilt className="xs:w-[350px] xs:h-[350px] w-full h-full m-auto max-[1000px]:my-14">
           <motion.div
             variants={fadeIn("", "", 0.5, 1)}
-            className="rounded-full xs:w-[350px] w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card"
+            className="xs:w-[350px] w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card"
           >
             <div
               options={{ max: 45, scale: 1, speed: 450 }}
