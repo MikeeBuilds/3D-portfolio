@@ -52,8 +52,8 @@ const About = () => {
       >
         I am a full stack developer with a passion for creating beautiful and functional web applications. 
         I have a background in computer science and a love for learning new technologies. And love to work closely and collaborate with clients and peers
-        I am currently working as a software engineer at <a href="https://www.3dlook.com/" target="_blank" rel="noreferrer">3DLOOK </a> 
-        where I am responsible for developing and maintaining the company's web applications. I am also a freelance 
+        I am currently working as a software engineer at <a href="https://www.3dlook.com/" target="_blank" rel="noreferrer">3DLOOK</a> 
+          where I am responsible for developing and maintaining the company's web applications. I am also a freelance 
         developer and have worked on a variety of projects ranging from e-commerce websites to web applications for 
         small businesses. Lets work together to bring your ideas to life!
 
