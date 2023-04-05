@@ -9,7 +9,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
   return (
-    <nav className={`${styles.paddingX} w-full flex items-center py-5 top-0 z-20 bg-primary`}
+    <nav className={`${styles.paddingX} w-full flex items-center py-5 fixed top-0 z-20 bg-primary`}
     >
       <div className="flex items-center justify-between w-full max-w-7xl mx-auto">
         <Link to="/"
@@ -22,11 +22,12 @@ const Navbar = () => {
                 <img 
                   src={logo} 
                   alt='logo' 
-                  className='w-36 h-36 object-contain' 
+                  className='w-24 h-24 object-contain' 
                   />
                 <p 
-                  className='text-white text-[18px] font-bold cursor-pointer'
-                  >Mike Woods
+                  className='text-white text-[18px] font-bold cursor-pointer flex'
+                  >
+                    Mike Ludlow &nbsp;
                     <span
                       className='sm:block hidden'
                       >
@@ -57,8 +58,28 @@ const Navbar = () => {
                     onClick={() => setToggle(!toggle)}
               />
               <div className={`${!toggle ? 'hidden'
-              : 'flex'} p-6 black-gra`}>
+              : 'flex'} p-6 black-gradient absolute top-20 right-0 mx-4 my-2 min-w-[140px] z-10
+              rounded-xl`}>
+              
+              <ul className='list-none flex justify-end items-start flex-col gap-4'>
+                {navLinks.map((link) => (
+                    <li 
+                      key={link.id}
+                      className={`${
+                        active === link.title 
+                        ? "text-white" 
+                        : "text-secondary"
+                      } font-poppins font-medium cursor-pointer text-[16px]`}
+                      onClick={() => {
+                        setToggle(!toggle);
+                        setActive(link.title);
+                      }}
+                      > 
+                    <a href={`#${link.id}`}> {link.title}</a>
+                    </li>
 
+                ))}
+            </ul>
               </div>
 
             </div>
@@ -67,4 +88,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar;
