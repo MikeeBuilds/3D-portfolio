@@ -8,7 +8,7 @@ const Footer = () => {
       <img src={logo} alt="logo" className="w-36 m-auto" />
 
       <p className="text-secondary text-[17px] leading-[30px] text-center absolute bottom-8 left-0 right-0 mx-auto select-none">
-        {new Date().getFullYear()} &copy; Mike Woods. All rights reserved.
+        {new Date().getFullYear()} &copy; Mike Ludlow. All rights reserved.
       </p>
     </div>
   )
