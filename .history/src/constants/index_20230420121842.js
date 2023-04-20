@@ -120,7 +120,7 @@ import {
       company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "Aril-2022 - Present",
+      date: "Aril-2022 - Current",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

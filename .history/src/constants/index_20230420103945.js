@@ -24,6 +24,8 @@ import {
     tripguide,
     threejs,
   } from "../assets";
+
+  export const myGithub = "https://github.com/AlgoHussle"
   
   export const navLinks = [
     {
@@ -120,7 +122,7 @@ import {
       company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "Aril-2022 - Present",
+      date: "March 2020 - April 2021",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -133,7 +135,7 @@ import {
       company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "April 2022 - Present",
+      date: "Jan 2021 - Feb 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -142,11 +144,11 @@ import {
       ],
     },
     {
-      title: "Web3 & Blockchain Developer & Co-Founder",
+      title: "Web3 & Blockchain Developer",
       company_name: "Citiz3ns Of Andrometta",
       icon: shopify,
       iconBg: "#383E56",
-      date: "April 2022 - Present",
+      date: "April 2022 - Current",
       points: [
         "Developing and maintaining decentralized applications (dApps) using web3 technologies such as Solidity, Ethereum, and IPFS.",
         "Collaborating with cross-functional teams including designers, product managers, and other blockchain developers to create high-quality products that utilize the latest web3 technology stack.",
@@ -169,6 +171,14 @@ import {
     },
   ];
 
+  const myWords = [
+    {
+      text: "Here you can download my СV by clicking on Download button. I will be glad to our cooperation.",
+      name: "Ilya Aleksin",
+      designation: "The owner",
+      company: "ILALEX",
+    },
+  ]
   
   const testimonials = [
     {
@@ -263,4 +273,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, testimonials, projects, myWords };
