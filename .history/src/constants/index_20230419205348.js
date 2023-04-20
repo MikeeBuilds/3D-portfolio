@@ -198,9 +198,9 @@ import {
   
   const projects = [
     {
-      name: "Citiz3ns Of Andrometta",
+      name: "Car Rent",
       description:
-        "Citiz3ns is a website that presents itself as a decentralized social network built on blockchain technology. It aims to provide a platform where users can create, share, and engage with content without the risk of censorship or data exploitation. ",
+        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
           name: "react",
@@ -216,7 +216,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://citiz3ns.xyz/",
+      source_code_link: "https://github.com/",
     },
     {
       name: "Job IT",
