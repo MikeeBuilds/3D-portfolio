@@ -162,9 +162,9 @@ import {
       date: "Jan 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with clients to understand their needs and develop software solutions that met their specific requirements.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Creating high-quality code and ensuring that it was thoroughly tested to ensure optimal performance and functionality.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
   ];
