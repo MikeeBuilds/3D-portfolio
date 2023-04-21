@@ -41,7 +41,7 @@ const Contact = () => {
                   to_email: 'citizensofandrometta@gmail.com',
                   message: form.message,
                 },
-                'EjSIj6Bx8PvnkBMIF'
+                '0CJm9hObcZKoxA_Fb'
                 )
                 .then(() => {
                   setLoading(false);

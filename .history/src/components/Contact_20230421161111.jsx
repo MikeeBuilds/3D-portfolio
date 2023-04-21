@@ -8,9 +8,9 @@ import { SectionWrapper } from '../hoc';
 import { slideIn } from '../utils/motion';
 
 
-//template_gidyluh
-//service_ost48o3
-//EjSIj6Bx8PvnkBMIF
+//template_30s7a7o
+//service_o3w9ton
+//0CJm9hObcZKoxA_Fb
 
 const Contact = () => {
   const formRef = useRef();
@@ -32,8 +32,8 @@ const Contact = () => {
 
 
     emailjs.send(
-                'service_ost48o3',
-                'template_gidyluh', 
+                'service_o3w9ton',
+                'template_30s7a7o', 
                 {
                   from_name: form.name,
                   to_name: 'Algo',
@@ -41,7 +41,7 @@ const Contact = () => {
                   to_email: 'citizensofandrometta@gmail.com',
                   message: form.message,
                 },
-                'EjSIj6Bx8PvnkBMIF'
+                '0CJm9hObcZKoxA_Fb'
                 )
                 .then(() => {
                   setLoading(false);
