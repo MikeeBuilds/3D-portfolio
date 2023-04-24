@@ -259,7 +259,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/AlgoHussle/ai-summarize",
+      source_code_link: "https://github.com/",
     },
   ];
   

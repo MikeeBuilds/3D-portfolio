@@ -208,7 +208,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "web3js",
+          name: "mongodb",
           color: "green-text-gradient",
         },
         {
@@ -241,25 +241,25 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Sumz",
+      name: "Trip Guide",
       description:
-        "AI-powered text summarization tool that can condense large blocks of text into shorter, more concise summaries. Users can input their desired text in the input box and choose the number of sentences they want the summary to be. The tool uses natural language processing algorithms to analyze and extract the most relevant information from the text.",
+        "",
       tags: [
         {
-          name: "nextjs13",
+          name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "openai",
+          name: "supabase",
           color: "green-text-gradient",
         },
         {
-          name: "rapidapi",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/AlgoHussle/ai-summarize",
+      source_code_link: "https://github.com/",
     },
   ];
   
