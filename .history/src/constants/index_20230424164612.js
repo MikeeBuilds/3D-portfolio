@@ -38,6 +38,10 @@ import {
       id: "contact",
       title: "Contact",
     },
+    {
+      id: "projects",
+      title: "Projects",
+    }
   ];
   
   const services = [
@@ -243,7 +247,7 @@ import {
     {
       name: "Sumz",
       description:
-        "AI-powered text summarization tool that can condense large blocks of text into shorter, more concise summaries. Just input your desired text in the input box. The tool algorithms to analyze and extract the most relevant information from the text.",
+        "AI-powered text summarization tool that can condense large blocks of text into shorter, more concise summaries. Users can input their desired text in the input box and choose the number of sentences they want the summary to be. The tool uses natural language processing algorithms to analyze and extract the most relevant information from the text.",
       tags: [
         {
           name: "nextjs13",
