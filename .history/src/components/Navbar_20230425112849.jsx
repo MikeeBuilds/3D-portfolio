@@ -31,7 +31,7 @@ const Navbar = () => {
                     <span
                       className='sm:block hidden'
                       >
-                        | Web Developer | Desinger
+                        | Web Developer & Desinger
                     </span>
                 </p>
           </Link>
