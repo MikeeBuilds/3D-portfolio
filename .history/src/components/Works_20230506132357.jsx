@@ -37,7 +37,7 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link, p
         </div>
         <div className='mt-5'>
           <h3 className='text-white text-xl font-bold'>
-            <a className='hover:text-purple-300 transform transistion duration-500 ease-in-out' href={project_link} target='_blank' rel='noopener noreferrer'>
+            <a c href={project_link} target='_blank' rel='noopener noreferrer'>
               {name}
             </a>
           </h3>

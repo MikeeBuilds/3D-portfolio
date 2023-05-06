@@ -202,7 +202,7 @@ import {
       name: "Citiz3ns Of Andrometta",
       description:
         "Citiz3ns is a website that presents itself as a decentralized network built on blockchain technology. It aims to provide a platform where users can create, share, and engage with content without the risk of censorship or data exploitation. ",
-        project_link: "https://www.citiz3ns.xyz",
+        project_link:
       tags: [
         {
           name: "react",
@@ -245,7 +245,6 @@ import {
       name: "Sumz",
       description:
         "AI-powered text summarization tool that can condense large blocks of text into shorter, more concise summaries. Just input your desired text in the input box. The tool algorithms to analyze and extract the most relevant information from the text.",
-        project_link: "https://ai-summarize-psi.vercel.app/",
       tags: [
         {
           name: "nextjs13",

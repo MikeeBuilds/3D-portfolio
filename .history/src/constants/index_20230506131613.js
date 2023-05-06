@@ -245,7 +245,7 @@ import {
       name: "Sumz",
       description:
         "AI-powered text summarization tool that can condense large blocks of text into shorter, more concise summaries. Just input your desired text in the input box. The tool algorithms to analyze and extract the most relevant information from the text.",
-        project_link: "https://ai-summarize-psi.vercel.app/",
+        pro
       tags: [
         {
           name: "nextjs13",
