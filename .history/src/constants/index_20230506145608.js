@@ -228,7 +228,7 @@ import {
       name: "VOODIEZ",
       description:
         "Parallax webiste. still under construction...",
-        project_link: "https://voodiez.vercel.app",
+        
       tags: [
         {
           name: "react",
