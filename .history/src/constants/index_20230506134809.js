@@ -242,8 +242,7 @@ import {
           color: "pink-text-gradient",
         },
         {
-          name: "javascript",
-          color: "yellow-text-gradient",
+          
         }
       ],
       image: jobit,

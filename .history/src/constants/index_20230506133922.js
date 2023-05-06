@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    voodie
   } from "../assets";
   
   export const navLinks = [
@@ -216,18 +217,14 @@ import {
           name: "tailwind",
           color: "pink-text-gradient",
         },
-        {
-          name: "solidity",
-          color: "yellow-text-gradient",
-        }
       ],
       image: carrent,
       source_code_link: "https://citiz3ns.xyz/",
     },
     {
-      name: "VOODIEZ",
+      name: "Job IT",
       description:
-        "Parallax webiste. still under construction...",
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
           name: "react",
@@ -241,10 +238,6 @@ import {
           name: "scss",
           color: "pink-text-gradient",
         },
-        {
-          name: "javascript",
-          color: "yellow-text-gradient",
-        }
       ],
       image: jobit,
       source_code_link: "https://github.com/",

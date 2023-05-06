@@ -267,6 +267,7 @@ import {
           name: "rapidapi",
           color: "pink-text-gradient",
         },
+        
       ],
       image: tripguide,
       source_code_link: "https://github.com/AlgoHussle/ai-summarize",

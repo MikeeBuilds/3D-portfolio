@@ -243,7 +243,7 @@ import {
         },
         {
           name: "javascript",
-          color: "yellow-text-gradient",
+          
         }
       ],
       image: jobit,

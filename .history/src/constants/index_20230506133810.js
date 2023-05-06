@@ -216,18 +216,14 @@ import {
           name: "tailwind",
           color: "pink-text-gradient",
         },
-        {
-          name: "solidity",
-          color: "yellow-text-gradient",
-        }
       ],
       image: carrent,
       source_code_link: "https://citiz3ns.xyz/",
     },
     {
-      name: "VOODIEZ",
+      name: "voodiez Parallax",
       description:
-        "Parallax webiste. still under construction...",
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
           name: "react",
@@ -241,10 +237,6 @@ import {
           name: "scss",
           color: "pink-text-gradient",
         },
-        {
-          name: "javascript",
-          color: "yellow-text-gradient",
-        }
       ],
       image: jobit,
       source_code_link: "https://github.com/",
@@ -253,7 +245,7 @@ import {
       name: "Sumz",
       description:
         "AI-powered text summarization tool that can condense large blocks of text into shorter, more concise summaries. Just input your desired text in the input box. The tool algorithms to analyze and extract the most relevant information from the text.",
-        project_link: "https://ai-summarize-psi.vercel.app/" ,
+        project_link: "https://ai-summarize-psi.vercel.app/",
       tags: [
         {
           name: "nextjs13",

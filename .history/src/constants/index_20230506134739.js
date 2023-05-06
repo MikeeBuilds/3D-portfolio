@@ -241,10 +241,6 @@ import {
           name: "scss",
           color: "pink-text-gradient",
         },
-        {
-          name: "javascript",
-          color: "yellow-text-gradient",
-        }
       ],
       image: jobit,
       source_code_link: "https://github.com/",
