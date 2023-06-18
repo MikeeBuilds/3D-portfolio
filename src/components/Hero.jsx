@@ -17,7 +17,7 @@ const Hero = () => {
             GM! Im <span className=' text-[#915eff]'>Algo</span>
             </h1>
             <p className=''>
-                Currently building  
+                Currently building...  
             </p>
             <p className={`${styles.heroSubText}  mt-2 text-white-100`}>
             <span className=' animate-text  bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-4xl font-black xs:flex-row '>Umbrella Labs
