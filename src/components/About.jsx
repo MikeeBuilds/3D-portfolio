@@ -40,17 +40,41 @@ const About = () => {
         <h2 className={styles.heroHeadText}>Overview.</h2>
       </motion.div>
 
-      <div className="flex items-center min-[1000px]:flex-row flex-col-reverse ">
+      <div className="flex items-center min-[1000px]:flex-row flex-col-reverse">
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I'm Algo, a self-taught full-stack developer specializing in
-          cutting-edge web application development. At Umbr3lla Labs, we excel
-          in utilizing React, TailwindCSS, Next.js, and Three.js to build
-          exceptional web experiences. With a dedicated focus on web3 and DeFi
-          technologies, we shape the future of the web by exploring innovative
-          blockchain and decentralized solutions.
+          <div className="mt-8">
+            <div className="p-4 bg-black-100 rounded-lg">
+              <h3 className="text-primary font-bold">Full-stack Development</h3>
+              <p className="text-gray-700">
+                At Umbr3lla Labs, our team of skilled developers excels in both
+                front-end and back-end development, ensuring seamless project
+                launches and fully functional websites. We expertly integrate your
+                content into captivating public-facing websites while
+                simultaneously developing the back end, enabling wallet
+                connections and essential functionalities.
+              </p>
+            </div>
+          </div>
+
+          <div className="mt-8">
+            <div className="p-4 bg-black-100 rounded-lg">
+              <h3 className="text-primary font-bold">Custom Smart Contract</h3>
+              <p className="text-gray-700">
+                With our in-house Solidity developers, we create efficient and
+                tailored smart contracts that cater specifically to your project's
+                requirements. From comprehensive tokenomics and contract
+                migration to ensuring proper provenance and implementing
+                whitelisting, we handle it all. Explore our projects page for
+                inspiring examples of our work.
+              </p>
+            </div>
+          </div>
+
+          {/* Repeat the above code for other services */}
+
         </motion.p>
         <Tilt className="xs:w-[350px] xs:h-[350px] w-full h-full m-auto max-[1000px]:my-14">
           <motion.div
@@ -71,20 +95,6 @@ const About = () => {
           </motion.div>
         </Tilt>
       </div>
-
-      <motion.div
-        variants={textVariant()}
-        className="mt-20 max-w-3xl text-secondary text-[17px] leading-[30px]"
-        
-      >
-        <motion.p>
-        Our portfolio showcases
-          carefully crafted projects that demonstrate our expertise in web
-          development, including captivating web3 and DeFi applications. Take a
-          moment to explore our website and discover the skills, experience, and
-          potential collaboration opportunities that await you.
-        </motion.p>
-      </motion.div>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center ">
         {services.map((service, index) => (
