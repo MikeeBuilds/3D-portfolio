@@ -66,10 +66,10 @@ const Works = () => {
       variants={textVariant()}
       >
         <p className={styles.heroSubText}>
-          My Work
+          Heres What You Can Expect
         </p>
         <h2 className={styles.heroHeadText}>
-          Projects.
+          Dreams To Reality
         </h2>
       </motion.div>
       <div className='w-full flex'>
@@ -78,7 +78,7 @@ const Works = () => {
         className='w-full text-secondary text-[17px] font-semibold leading-[30px]
           max-w-3xl mt-3 '
         >
-          Welcome to my portfolio website! My name is Algo and I am a dedicated self-taught full-stack developer based in Ft Lauderdale Florida. <br/>
+          I am a dedicated self-taught full-stack developer based in Ft Lauderdale Florida. <br/>
           <br/>
             I specialize in building web applications using React, TailwindCSS, Next.js, and Three.js. I have a passion for solving complex problems and experience working with various technologies. As a web3 and DeFi builder, I am constantly exploring and experimenting with the latest blockchain and decentralized technologies to build the future of the web.
 

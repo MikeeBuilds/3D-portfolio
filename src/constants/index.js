@@ -38,6 +38,7 @@ import {
       id: "contact",
       title: "Contact",
     },
+      
   ];
   
   const services = [
@@ -46,7 +47,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "UI/UX Development",
       icon: mobile,
     },
     {
@@ -270,7 +271,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/AlgoHussle/ai-summarize",
+      source_code_link: "https://ai-summarize-psi.vercel.app/",
     },
   ];
   
