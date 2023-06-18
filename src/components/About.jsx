@@ -47,7 +47,7 @@ const About = () => {
         >
           <div className="mt-8">
             <div className="p-4 bg-black-100 rounded-lg">
-              <h3 className="text-primary font-bold">Full-stack Development</h3>
+              <h3 className="text-primary font-bold text-white">Full-stack Development</h3>
               <p className="text-white">
                 At Umbr3lla Labs, our team of skilled developers excels in both
                 front-end and back-end development, ensuring seamless project
@@ -61,7 +61,7 @@ const About = () => {
 
           <div className="mt-8">
             <div className="p-4 bg-black-100 rounded-lg">
-              <h3 className="text-primary font-bold">Custom Smart Contract</h3>
+              <h3 className="text-primary font-bold text-white">Custom Smart Contract</h3>
               <p className="text-white">
                 With our in-house Solidity developers, we create efficient and
                 tailored smart contracts that cater specifically to your project's
