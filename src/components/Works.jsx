@@ -89,14 +89,16 @@ const Works = () => {
           decentralized technologies to build the future of the web.  <br />
           <br />
             I am a big believer in developing Web3 and DeFi applications, which
-          requires a deep understanding of blockchain technologies and their
-          implementation. 
+          requires a deep understanding of the blockchain and its
+          implementation. <br />
           
           <br />
           I have also worked on various other projects, from
-          e-commerce platforms to online learning systems, which showcase my
-          ability to work with different technologies and industries. Whether
-          you are interested in exploring my portfolio, learning more about my
+          e-commerce platforms to online learning systems, which gives me the
+          ability to work with different technologies and industries. <br />
+
+          <br />
+          Whether you are interested in exploring my portfolio, learning more about my
           experience, or discussing potential collaboration opportunities, I
           invite you to explore my website and get in touch.
         </motion.p>
