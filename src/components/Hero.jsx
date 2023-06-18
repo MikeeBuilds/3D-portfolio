@@ -20,7 +20,7 @@ const Hero = () => {
               Ill be your digital development partner for success. 
             </p>
             <p className={`${styles.heroSubText}  mt-2 text-white-100`}>
-            Welcome to <span className=' animate-text  bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-4xl font-black xs:flex-row '>Umbrella Labs
+            At <span className=' animate-text  bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-4xl font-black xs:flex-row '>Umbrella Labs
 </span> Where Development Meets Innovation
 
 
