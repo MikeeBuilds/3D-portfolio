@@ -27,11 +27,11 @@ const Navbar = () => {
                 <p 
                   className='text-white text-[18px] font-bold cursor-pointer flex'
                   >
-                    Mike Woods &nbsp;
+                    Umbr3lla Labs &nbsp;
                     <span
                       className='sm:block hidden'
                       >
-                        | Web Developer | Desinger
+                        | Web Development | Design
                     </span>
                 </p>
           </Link>

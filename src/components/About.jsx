@@ -50,7 +50,7 @@ const About = () => {
       variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a full stack developer with a passion for creating beautiful and functional web applications. 
+        I am a self taught full-stack developer with a passion for creating beautiful and functional web applications. 
         I have a background in computer science and a love for learning new technologies. And love to work closely and collaborate with clients and peers
         I am currently working as a developer at <a href="https://www.3dlook.com/" target="_blank" rel="noreferrer">3DLOOK </a> 
         where I am responsible for developing and maintaining the company's web applications. I am also a freelance 
