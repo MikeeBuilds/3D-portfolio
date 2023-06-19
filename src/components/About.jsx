@@ -52,7 +52,7 @@ const About = () => {
                 At Umbr3lla Labs, we are building a team of skilled developers thats excels in both
                 front-end and back-end development, ensuring seamless project
                 launches and fully functional websites. We expertly integrate your
-                content into captivating public-facing websites while
+                content into captivating public-facing Decentralized Applications while
                 simultaneously developing the back end, enabling wallet
                 connections and essential functionalities.
               </p>
