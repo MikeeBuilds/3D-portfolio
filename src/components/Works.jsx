@@ -100,7 +100,7 @@ const Works = () => {
           <br />
           Whether you are interested in exploring my portfolio, learning more about my
           experience, or discussing potential collaboration opportunities, I
-          invite you to explore my website and get in touch.
+          invite you to explore and then get in touch.
         </motion.p>
       </div>
 

@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    sushiman
   } from "../assets";
   
   export const navLinks = [
@@ -272,6 +273,32 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://ai-summarize-psi.vercel.app/",
+    },
+    {
+      name: "SushiMan",
+      description:
+        "Sushiman is a modern and stylish ",
+        project_link: "https://sushi-pi.vercel.app/",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "web3js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "nextjs",
+          color: "yellow-text-gradient",
+        }
+      ],
+      image: sushiman,
+      source_code_link: "https://github.com/AlgoHussle/sushi",
     },
   ];
   
