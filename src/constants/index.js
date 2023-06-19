@@ -277,7 +277,7 @@ import {
     {
       name: "SushiMan",
       description:
-        "Sushiman is a modern and stylish ",
+        "Sushiman is a modern and stylish sushi Web App. Fully mobile repsonsive using the latest nextjs13",
         project_link: "https://sushi-pi.vercel.app/",
       tags: [
         {
