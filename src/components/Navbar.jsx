@@ -27,11 +27,11 @@ const Navbar = () => {
                 <p 
                   className='text-white text-[18px] font-bold cursor-pointer flex'
                   >
-                    Mike Woods &nbsp;
+                    Algo Codes &nbsp;
                     <span
                       className='sm:block hidden'
                       >
-                        | Web Developer | Desinger
+                        &nbsp; 
                     </span>
                 </p>
           </Link>

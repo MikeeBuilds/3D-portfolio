@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    sushiman
   } from "../assets";
   
   export const navLinks = [
@@ -38,6 +39,7 @@ import {
       id: "contact",
       title: "Contact",
     },
+      
   ];
   
   const services = [
@@ -46,7 +48,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "UI/UX Development",
       icon: mobile,
     },
     {
@@ -270,7 +272,33 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/AlgoHussle/ai-summarize",
+      source_code_link: "https://ai-summarize-psi.vercel.app/",
+    },
+    {
+      name: "SushiMan",
+      description:
+        "Sushiman is a modern and stylish sushi Web App. Fully mobile repsonsive using the latest nextjs13",
+        project_link: "https://sushi-pi.vercel.app/",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "web3js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "nextjs",
+          color: "yellow-text-gradient",
+        }
+      ],
+      image: sushiman,
+      source_code_link: "https://github.com/AlgoHussle/sushi",
     },
   ];
   
