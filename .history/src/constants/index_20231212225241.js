@@ -203,6 +203,32 @@ import {
   
   const projects = [
     {
+      name: "VOODIEZ",
+      description:
+        "Parallax website. still under construction...",
+        project_link: "https://voodiez.vercel.app",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "yellow-text-gradient",
+        }
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+    },
+    {
       name: "Sumz",
       description:
         "AI-powered text summarization tool that can condense large blocks of text into shorter, more concise summaries. Just input your desired text in the input box. The tool algorithms to analyze and extract the most relevant information from the text.",
@@ -301,32 +327,6 @@ import {
       ],
       image: camp,
       source_code_link: "https://github.com/MikeeBuilds/camp",
-    },
-    {
-      name: "VOODIEZ",
-      description:
-        "Parallax website. still under construction...",
-        project_link: "https://voodiez.vercel.app",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "javascript",
-          color: "yellow-text-gradient",
-        }
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
     },
   ];
   

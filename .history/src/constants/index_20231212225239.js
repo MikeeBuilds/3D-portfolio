@@ -202,6 +202,33 @@ import {
   ];
   
   const projects = [
+    
+    {
+      name: "VOODIEZ",
+      description:
+        "Parallax website. still under construction...",
+        project_link: "https://voodiez.vercel.app",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "yellow-text-gradient",
+        }
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+    },
     {
       name: "Sumz",
       description:
@@ -301,32 +328,6 @@ import {
       ],
       image: camp,
       source_code_link: "https://github.com/MikeeBuilds/camp",
-    },
-    {
-      name: "VOODIEZ",
-      description:
-        "Parallax website. still under construction...",
-        project_link: "https://voodiez.vercel.app",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "javascript",
-          color: "yellow-text-gradient",
-        }
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
     },
   ];
   
