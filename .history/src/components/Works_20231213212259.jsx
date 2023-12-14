@@ -81,10 +81,10 @@ const Works = () => {
         >
           I am a dedicated full-stack developer based in Columbus Ohio. <br />
           <br />
-          With experience in React, TailwindCSS, Next.js, Three.js, blockchain
-          technologies and AI/LLMs, I delve into cutting-edge tech,
-          including artificial intelligence and large language models, to
-          pioneer the future of tech solutions.
+          With expertise in React, TailwindCSS, Next.js, Three.js, blockchain technologies and AI/LLMs,
+          I delve into cutting-edge technologies, including artificial
+          intelligence and large language models, to pioneer the future of tech
+          solutions.
           <br />
           <br />
           My diverse portfolio ranges from e-commerce platforms to online

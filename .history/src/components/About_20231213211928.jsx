@@ -47,41 +47,33 @@ const About = () => {
         >
           <div className="mt-8">
             <div className="p-4 bg-black-100 rounded-lg">
-              <h3 className=" font-bold text-white underline capitalize">
-                Full-stack Development
-              </h3>
+              <h3 className=" font-bold text-white underline capitalize">Full-stack Development</h3>
               <p className="text-white">
-                I'm a passionate full stack Software Engineer dedicated to
-                crafting dynamic applications. Dive into this portfolio to
-                explore my coding journey, spanning from intuitive web2 projects
-                to intricate web3 applications driven by blockchain
-                technologies. <br /> <br />
-                Originating from a background as an Outdoor Photographer and
-                bowhunting guide, my coding adventure kicked off in mid 2022
-                with a deep dive into Solidity and blockchain. Now, I channel
-                that passion into crafting digital experiences using mainly
-                Next.js, React, and Tailwind. BUt love to learn as many
-                languages as possible.
+                I'm a passionate full stack Software Engineer dedicated to crafting dynamic
+                 applications. Dive into this portfolio to explore my coding
+                journey, spanning from intuitive web2 projects to intricate web3
+                applications driven by blockchain technologies. <br /> <br />Originating from
+                a background as an Outdoor Photographer and bowhunting guide,
+                my coding adventure kicked off in mid 2022 with a deep dive
+                into Solidity and blockchain. Now, I channel that passion into
+                crafting digital experiences using mainly Next.js, React, and Tailwind.
+                BUt love to learn as many languages as possible.
               </p>
             </div>
           </div>
 
           <div className="mt-8">
             <div className="p-4 bg-black-100 rounded-lg">
-              <h3 className=" font-bold text-white underline">
-                Passion Meets Problem Solving
-              </h3>
+              <h3 className=" font-bold text-white underline">Passion Meets Problem Solving</h3>
               <p className="text-white">
                 My coding enthusiasm finds its sweet spot at the intersection of
-                climate tech and outdoor innovation. Building solutions for our
-                worlds problems. <br /> <br />
-                I'm on the lookout for challenges where I can apply tech
-                solutions, seamlessly blending my love for the outdoors with the
-                power of code. <br /> <br />A remote work aficionado, I bring a
-                unique adaptability cultivated through diverse experiences.
-                Let's not just connect but collaborate on something
-                extraordinary. Ready to embark on the next project? Feel free to
-                reach out—let's make it happen!
+                climate tech and outdoor innovation. <br />I'm on the lookout for
+                challenges where I can apply tech solutions, seamlessly blending
+                my love for the outdoors with the power of code. A remote
+                work aficionado, I bring a unique adaptability cultivated
+                through diverse experiences. Let's not just connect but
+                collaborate on something extraordinary. Ready to embark on the
+                next project? Feel free to reach out—let's make it happen!
               </p>
             </div>
           </div>
