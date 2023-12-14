@@ -32,7 +32,7 @@ import tripguide from "./tripguide.png";
 import sushiman from "./sushiman.png";
 import threejsport from "./threejsport.png";
 import camp from "./camp.png";
-import taskify from "./taskify.png"
+import taskify from "./"
 
 export {
   threejsport,

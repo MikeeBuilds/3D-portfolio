@@ -226,9 +226,9 @@ import {
       source_code_link: "https://ai-summarize-psi.vercel.app/",
     },
     {
-      name: "Taskify",
+      name: "SushiMan",
       description:
-        "Taskify is a easy to use task manager app with the capabilities of dragging and dropping tasks into different list to fit your schedule. Buildt with Nextjs - Tailwindcss - PrismaDB and more of the latest tech. Try it out now!",
+        "Sushiman is a modern and stylish sushi Web App. Fully mobile repsonsive using the latest nextjs13",
         project_link: "https://sushi-pi.vercel.app/",
       tags: [
         {
@@ -249,7 +249,7 @@ import {
         }
       ],
       image: taskify,
-      source_code_link: "",
+      source_code_link: "https://github.com/AlgoHussle/sushi",
     },
     {
       name: "3D Portfolio",

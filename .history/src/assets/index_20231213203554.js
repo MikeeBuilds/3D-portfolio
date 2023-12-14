@@ -31,8 +31,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import sushiman from "./sushiman.png";
 import threejsport from "./threejsport.png";
-import camp from "./camp.png";
-import taskify from "./taskify.png"
+import camp from "./camp.png"
 
 export {
   threejsport,
@@ -66,5 +65,5 @@ export {
   tripguide,
   sushiman,
   camp,
-  taskify
+  task
 };
