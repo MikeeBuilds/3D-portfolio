@@ -37,10 +37,9 @@ const Navbar = () => {
                 >
                   <a
                     href={link.link}
-                    onClick={(e) => {
-                      e.preventDefault();
-                      window.open(link.link, "_blank");
-                    }}
+                    target="_blank" // Add this line
+                    rel="noopener noreferrer"
+                    onClick={link.onClick}
                   >
                     {link.title}
                   </a>
