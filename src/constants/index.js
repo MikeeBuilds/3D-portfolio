@@ -236,7 +236,7 @@ const projects = [
     name: "Taskify",
     description:
       "Taskify is a easy to use task manager app with the capabilities of dragging and dropping tasks into different list to fit your schedule. Buildt with Nextjs - Tailwindcss - PrismaDB and more of the latest tech. Try it out now",
-    project_link: "https://sushi-pi.vercel.app/",
+    project_link: "https://taskify-virid.vercel.app/",
     tags: [
       {
         name: "react",
